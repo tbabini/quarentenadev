@@ -1,6 +1,6 @@
 <---- 30/03 Aprendemos sobre a função do ALERT ---->
 alert(((((60*75)*24)*365)*31))
-alert("Utilize as aspas duplas para identificar texto" +31*365+ " e o plusplus para unir operação"))
+alert("Utilize as aspas duplas para identificar texto " +31*365+ " e o plusplus para unir operação"))
 alert("Atividade 1 - Maria comprou dezenove balas na padaria, depois comprou mais quarenta e cinco. Maria agora tem " +300/15+ " balas")
 alert("Atividade 2 - Comprei 15 galinhas por 300 reais. Paguei " +300/15+ " reais por cada uma delas.")
 alert("Atividade 3 - Se o valor do raio da circunferência é 2, " +3.14*2*2+ " é o valor da sua área")
