@@ -1,0 +1,15 @@
+alert('o uso de aspas simples tb imprime o texto')
+prompt() --> abre uma janelinha e pede uma resposta de retorno
+prompt('quantos dias você já viveu? coloque a sua idade aqui')*365
+alert(prompt ('quantos dias você já viveu? Coloque aqui a sua idade!')*365)
+document.write('oi')
+document.write(prompt ('Quantos anos você tem?') ,' anos.') --> a virgula permite imprimir texto junto ao que retorna do prompt
+
+suaidade=31
+31
+document.write(suaidade*365, ' dias.') --> ele retorna na pagina o valor seguido do texto
+
+suaidade=prompt('qual a sua idade?')
+"31"
+document.write(suaidade, ' anos', suaidade*365, ' dias')
+ele imprime idade e total de dias vividos!
