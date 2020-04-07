@@ -1,6 +1,5 @@
 Ferramenta CODEPEN
 
-
 suaidade=prompt("Qual a sua idade?")
 document.write('você tem ', suaidade , " anos ")
 document.write ('e já viveu ', suaidade*365 , ' dias')
