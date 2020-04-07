@@ -14,6 +14,7 @@ suaidade=prompt('qual a sua idade?')
 document.write(suaidade, ' anos', suaidade*365, ' dias')
 ele imprime idade e total de dias vividos!
 
+//O parseint indentifica o numero texto e transforma em inteiro!//
 guilherme = parseInt(prompt('A idade do Guilherme é: '))
 carol = parseInt(prompt('A idade da Carol é: '))
 marcia = parseInt(prompt('A idade da Márcia é: '))
