@@ -1,0 +1,9 @@
+Ferramenta CODEPEN
+
+
+suaidade=prompt("Qual a sua idade?")
+document.write('você tem ', suaidade , " anos ")
+document.write ('e já viveu ', suaidade*365 , ' dias')
+
+document.write("Exercício 1:<br><br> Oi<br> como <br> você <br> está <br> pulando <br> linha <br> ?<br><br>")
+document.write("Exercício 2:<br><br> O carro da Amanda faz 12km/l, ela viajou por 10 horas a uma velocidade de 81km/h. Quantos litros de combustível foram necessários para realizar essa viagem? <br> Resposta: " , " foram necessários " ,10*81/12 , " litros.")
