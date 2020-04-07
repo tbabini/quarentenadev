@@ -13,3 +13,11 @@ suaidade=prompt('qual a sua idade?')
 "31"
 document.write(suaidade, ' anos', suaidade*365, ' dias')
 ele imprime idade e total de dias vividos!
+
+guilherme = parseInt(prompt('A idade do Guilherme é: '))
+carol = parseInt(prompt('A idade da Carol é: '))
+marcia = parseInt(prompt('A idade da Márcia é: '))
+patricia = parseInt(prompt('A idade da Patricia é: '))
+soma = ((guilherme + carol + marcia + patricia)/4)
+
+document.write('A media de idade da familia do Guilherme é: ' + soma +' anos')
