@@ -2,7 +2,7 @@
 // o uso do .tofixed(2) para fixar casa decimal
 // 2+km*1.4+min*0.26 formula
 
-distanciakm=20
-tempomin=30
-valorcorrida=2+distanciakm*1.4+tempomin*0.26
+distanciakm = prompt("Distancia em Km?")
+tempomin = prompt("Tempo estimado em minutos?")
+valorcorrida = 2+distanciakm*1.4+tempomin*0.26
 alert('Sua corrida deu:R$' +valorcorrida.toFixed(2))
