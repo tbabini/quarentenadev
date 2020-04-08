@@ -1,2 +1,9 @@
 //Criação do curriculo em Html&CSS no CodePen
 https://codepen.io/tbabini/pen/MWagjNX
+
+- <h1></h1> é a tag de cabeçalho mais importante
+ - <img src="link da imagem"> tag responsável pela imagem, dentro dela passamos o link da foto que queremos exibir
+ - <h2></h2> é um subtitulo
+ - <ul></ul> cria uma lista desordenada
+ - <li></li> usamos dentro da <ul> para dizer que é um item de lista
+ - <a></a> é a tag de ancora é ela que vai receber o endereço que quando clicarmos vamos ser redirecionados 
