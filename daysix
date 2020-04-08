@@ -10,3 +10,6 @@ if(condicao){condicaoresp="Sim"}
 if(condicao==false){condicaoresp="Não"}
 lista.innerHTML=
 `<li> Condição pré-existente? ${condicaoresp}</li>`
+
+//Atividade MÊS
+https://codepen.io/tbabini/pen/qBOWRLx
