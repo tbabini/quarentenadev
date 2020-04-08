@@ -3,4 +3,10 @@ https://codepen.io/tbabini/pen/abvoBMd
 
 // criar variaveis no JS
 `crase` para transformar em texto
-confirm() para criar condição
+
+// Criando condição no JS
+condicao=confirm("Tem condição médica?")
+if(condicao){condicaoresp="Sim"}
+if(condicao==false){condicaoresp="Não"}
+lista.innerHTML=
+`<li> Condição pré-existente? ${condicaoresp}</li>`
